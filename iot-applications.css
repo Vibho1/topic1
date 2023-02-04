@@ -19,12 +19,13 @@ header{
 #vibho{
     margin-left: 1400px;
     width: 100px;
-    margin-top: -80px;
+    margin-top: 0px;
 }
 
 #Credentials{
-    margin-left: 1180px;
-    margin-top: 45px;
+    margin-left: 1340px;
+    margin-top: 200px;
+    text-decoration-line: underline;
 }
 
 #BasicInfo{
@@ -109,4 +110,26 @@ ul{
 
 #Sub1{
     margin-left: 30px;
+}
+
+hr{
+    width: 1517px;
+    height: 3px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+#Info{
+    margin-left: 1300px;
+    margin-top: 0px;
+}
+
+#skills{
+    list-style-type: circle;
+    font-weight: bold;
+}
+
+ol{
+    list-style-type:upper-roman;
+
 }
