@@ -1,0 +1,112 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(235, 229, 270);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    background-color: black;
+    background-image: linear-gradient(black, black 50%);
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.6em 0em;
+}
+
+#vibho{
+    margin-left: 1400px;
+    width: 100px;
+    margin-top: -80px;
+}
+
+#Credentials{
+    margin-left: 1180px;
+    margin-top: 45px;
+}
+
+#BasicInfo{
+    margin-top: 0px;
+    text-align: center;
+    color: black;
+}
+
+h1{
+    color: orange;
+    text-decoration: none;
+}
+
+header a{
+    color: orange;
+    text-decoration: none;
+}
+
+#brand{
+    font-size: 230%;
+    align-self: center;
+    font-weight: bold;
+}
+
+#Head1{
+    margin-top: 50px;
+    margin-left: 630px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#Head2{
+    margin-top: 75px;
+    margin-left: 600px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#Head3{
+    margin-top: 75px;
+    margin-left: 590px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+
+}
+
+#Head4{
+    margin-top: 75px;
+    margin-left: 620px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#Sub1{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+ul{
+    list-style-type:circle;
+}
+
+#Sum1{
+    margin-left: 30px;
+}
+
+#Sum2{
+    margin-left: 30px;
+}
+
+#Sum3{
+    margin-left: 30px;
+}
+
+#Sub1{
+    margin-left: 30px;
+}
