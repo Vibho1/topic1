@@ -1,7 +1,6 @@
 body{
     width: 100%;
     margin: 0;
-    padding: 0px;
     background-color: rgb(235, 229, 270);
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -52,39 +51,59 @@ header a{
 
 #Head1{
     margin-top: 50px;
-    margin-left: 630px;
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bold;
-    text-decoration-line: underline;
-}
-
-#Head2{
-    margin-top: 75px;
     margin-left: 600px;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     text-decoration-line: underline;
+    border-radius: 25px;
+    background: wheat;
+    padding: 20px;
+    width: 300px;
+    height: 40px;
+}
+
+#Head2{
+    margin-top: 75px;
+    margin-left: 570px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+    border-radius: 25px;
+    background: wheat;
+    padding: 20px;
+    width: 370px;
+    height: 40px;
 }
 
 #Head3{
+    margin-top: 75px;
+    margin-left: 560px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: underline;
+    border-radius: 25px;
+    background: wheat;
+    padding: 20px;
+    width: 400px;
+    height: 40px;
+
+}
+
+#Head4{
     margin-top: 75px;
     margin-left: 590px;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     text-decoration-line: underline;
-
-}
-
-#Head4{
-    margin-top: 75px;
-    margin-left: 620px;
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bold;
-    text-decoration-line: underline;
+    border-radius: 25px;
+    background: wheat;
+    padding: 20px;
+    width: 330px;
+    height: 40px;
 }
 
 #Sub1{
@@ -92,9 +111,6 @@ header a{
     margin-top: 20px;
 }
 
-ul{
-    list-style-type:circle;
-}
 
 #Sum1{
     margin-left: 30px;
